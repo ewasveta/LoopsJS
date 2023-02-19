@@ -1,0 +1,17 @@
+
+table tr                     { height: 2em; }
+table tr th                  { 
+                               height: 3em; 
+                               font-size: 2em; font-weight: lighter; 
+                               position: relative;                                  
+                             }
+table tr th div              { 
+                               background-color: rgb(190, 254, 150);                                
+                               height: 100%; width: 25%;                               
+                               position: absolute;
+                               top: -0.2%;                               
+                               left: 37%;
+                             }
+table tr td                  { width: 30em; }
+table tr td input[type=text] { width: 20em; }
+button                       { width: 10em; }
